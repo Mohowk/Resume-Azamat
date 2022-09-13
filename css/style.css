@@ -88,11 +88,13 @@ body {
 }
 
 .contactInfo ul li {
+  align-items: center;
   position: relative;
   list-style: none;
   margin: 10px 0;
   cursor: pointer;
 }
+
 .contactInfo ul li .icon {
   display: inline-block;
   width: 30px;
